@@ -1,4 +1,4 @@
-### KYNTHİA DİSCORD COLOR CODE
+### NESQUİK DİSCORD COLOR CODE
 
 | Name                | Int value | Hex Code  |
 |---------------------|:---------:|:---------:|
