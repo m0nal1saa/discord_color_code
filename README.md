@@ -1,4 +1,4 @@
-### NESQUİK DİSCORD COLOR CODE
+### OWSLO DİSCORD COLOR CODE
 
 | Name                | Int value | Hex Code  |
 |---------------------|:---------:|:---------:|
@@ -54,7 +54,7 @@
 <p align="center">
    <a href="https://discord.com/users/939214875861868654" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/agghjvwwdvlvcrwr88f8k7rru?si=08552a9398a640a1&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="[[https://youtube.com/@kynthiafx]([https://[https://youtube.com/@kynthiafx](https://youtube.com/@kynthiafx))))" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://instagram.com/kynthiafx" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/kynthiafx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://twitter.com/kynthiafx" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <a href="[[https://youtube.com/@owslojs]([https://[https://youtube.com/@owslojs](https://youtube.com/@owslojs))))" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://instagram.com/berkefiidan" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/owslo" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="[https://twitter.com/kynthiafx](https://twitter.com/owslojs)" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
